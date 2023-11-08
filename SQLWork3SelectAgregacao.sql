@@ -1,7 +1,3 @@
---USE master
---
---DROP DATABASE work_user4
-
 CREATE DATABASE work_user4
 GO
 USE work_user4
